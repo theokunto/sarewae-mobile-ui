@@ -36,5 +36,6 @@
   },
   "name": "sarewae",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "main": "app.js"
 }
